@@ -1,0 +1,2 @@
+# pyplay
+Python learning exercises
